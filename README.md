@@ -70,11 +70,9 @@ fls.exe -r -o 2048 C:\forensics\disk.dd
 icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ```
 ## OUTPUT:
-<img width="1086" height="512" alt="image" src="https://github.com/user-attachments/assets/8d9587d7-0a82-44bd-bf6f-cc5b219a4ba7" />
-<img width="543" height="252" alt="image" src="https://github.com/user-attachments/assets/b3a01e0d-b99c-4b06-9f2f-d764a62a2bac" />
-<img width="1027" height="645" alt="image" src="https://github.com/user-attachments/assets/e8d5fd92-39d5-4251-8d35-46035c9dc092" />
-<img width="579" height="244" alt="image" src="https://github.com/user-attachments/assets/97193041-0c99-4d94-9cb1-2825e1e44f74" />
-<img width="510" height="383" alt="image" src="https://github.com/user-attachments/assets/67662cea-65e5-47d0-a64d-cdd59c56acbc" />
+<img width="1918" height="1078" alt="Screenshot 2025-09-13 221639" src="https://github.com/user-attachments/assets/35eb7c66-698b-48d7-91ba-9e9b918dc64f" />
+<img width="618" height="100" alt="Screenshot 2025-09-13 221656" src="https://github.com/user-attachments/assets/27a92332-a1fd-4cee-a7a0-24216c60a64f" />
+
 
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
